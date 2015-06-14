@@ -31,7 +31,7 @@ function ball() {
 }
 
 // Handle keyboard controls
-var keysDown = {};
+var keysDown = {};  
 var up = 38, down = 40, left = 37, right = 39;
     // ^store keycode, label for easier reading
 
